@@ -1,1 +1,3 @@
-language: shell
+language: c
+sudo: enabled
+os: linux
