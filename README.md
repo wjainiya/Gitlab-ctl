@@ -4,6 +4,7 @@
 * This script is to control gitlab under docker machine.
 
 
+### 2. Requirements ###
 * docker
 * gitlab image
 
